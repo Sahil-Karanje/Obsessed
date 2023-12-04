@@ -1,0 +1,202 @@
+a{
+    text-decoration: none;
+}
+footer {
+    background-color: #212529;
+    background-repeat: no-repeat;
+    color: #fff;
+  }
+  footer .top-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: left;
+  }
+  @media (min-width: 992px) {
+    footer .top-footer {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+  @media (min-width: 768px) {
+    footer .top-footer .footer-logo {
+      width: 50%;
+    }
+  }
+  footer .top-footer .footer-logo figure {
+    width: 150px;
+    margin-bottom: 0;
+  }
+  footer .top-footer .footer-logo figure img {
+    width: 100%;
+  }
+  footer .top-footer .social {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    font-size: 20px;
+  }
+  @media (min-width: 992px) {
+    footer .top-footer .social {
+      flex-direction: row;
+    }
+  }
+  @media (min-width: 1200px) {
+    footer .top-footer .social {
+      width: 35%;
+    }
+  }
+  footer .top-footer .social p {
+    margin-bottom: 0px;
+    padding: 20px 0px;
+    font-size: 18px;
+  }
+  @media (min-width: 768px) {
+    footer .top-footer .social p {
+      padding: 20px 0px;
+    }
+  }
+  footer .top-footer .social-wrap {
+    padding-bottom: 20px;
+  }
+  @media (min-width: 992px) {
+    footer .top-footer .social-wrap {
+      padding-bottom: 0;
+    }
+  }
+  footer .top-footer .social-wrap svg {
+    margin-right: 10px;
+  }
+  footer p {
+    padding: 40px 0px;
+    margin-bottom: 0;
+  }
+  footer .middle-footer {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 20px;
+  }
+  footer .middle-footer .footer-list span {
+    font-size: 22px;
+    display: inline-block;
+    padding-bottom: 20px;
+  }
+  footer .middle-footer .footer-list ul {
+    list-style: none;
+  }
+  footer .middle-footer .footer-list ul li {
+    font-weight: 200px;
+    padding-bottom: 5px;
+  }
+  footer .middle-footer .footer-list ul li a {
+    color: #FFF;
+  }
+  footer .middle-footer .footer-list ul li a:hover {
+    text-decoration: none;
+  }
+  footer .middle-footer .subscribe-div h4 {
+    display: block;
+  }
+  footer .middle-footer .subscribe-div span {
+    display: block;
+    padding-bottom: 20px;
+  }
+  footer .middle-footer .subscribe-wrap {
+    background-color: var(--secondary-color);
+    border-radius: 0px 10px 0px 10px;
+    margin: 10px 0px;
+  }
+  @media (min-width: 992px) {
+    footer .middle-footer .subscribe-wrap {
+      margin: 20px 0px;
+    }
+  }
+  footer .middle-footer .subscribe-wrap input {
+    width: 60%;
+    padding: 10px 0px;
+    padding-left: 20px;
+    border: none;
+    border-radius: 0px 0px 0px 10px;
+  }
+  footer .middle-footer .subscribe-wrap input:focus {
+    outline: none;
+  }
+  footer .middle-footer .subscribe-wrap a {
+    width: 30%;
+    color: #fff;
+    padding: 0px 0px;
+    display: inline-block;
+    text-align: center;
+  }
+  @media (min-width: 376px) {
+    footer .middle-footer .subscribe-wrap a {
+      padding: 0px 10px;
+    }
+  }
+  @media (min-width: 576px) {
+    footer .middle-footer .subscribe-wrap a {
+      padding: 0px 40px;
+    }
+  }
+  @media (min-width: 992px) {
+    footer .middle-footer .subscribe-wrap a {
+      padding: 0px 20px;
+    }
+  }
+  @media (min-width: 1200px) {
+    footer .middle-footer .subscribe-wrap a {
+      padding: 0px 40px;
+    }
+  }
+  footer .bottom-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 10px 0px;
+  }
+  @media (min-width: 992px) {
+    footer .bottom-footer {
+      align-items: center;
+    }
+  }
+  @media (min-width: 768px) {
+    footer .bottom-footer {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+  footer .bottom-footer .bottom-info {
+    display: flex;
+    flex-direction: column;
+  }
+  @media (min-width: 992px) {
+    footer .bottom-footer .bottom-info {
+      flex-direction: row;
+    }
+  }
+  footer .bottom-footer .bottom-info p {
+    padding: 0;
+    padding-bottom: 10px;
+  }
+  footer .bottom-footer .bottom-info p a {
+    color: #fff;
+  }
+  footer .bottom-footer .bottom-info p a:hover {
+    text-decoration: none;
+  }
+  footer .bottom-footer p {
+    padding: 0;
+    padding-bottom: 10px;
+  }
+  @media (min-width: 992px) {
+    footer .bottom-footer p {
+      padding: 10px;
+    }
+  }
+  footer .bottom-footer svg {
+    font-size: 30px;
+  }

@@ -1,0 +1,18 @@
+.size_btn{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #eeba2b;
+    margin-right: 10px;
+}   
+
+.size_btn:hover{
+    background-color: rgb(190, 190, 190);
+}
+
+.simlarPr{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}

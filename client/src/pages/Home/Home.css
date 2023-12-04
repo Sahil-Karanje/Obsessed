@@ -1,0 +1,27 @@
+#home-first-img{
+    width: 100%;
+}
+
+#home-first-img figure img{
+    width: 100%;
+}
+
+.hidden{
+    opacity: 0;
+    transition: all 1s;
+}
+
+.show{
+    opacity: 1;
+}
+
+.tshirtContainer{
+    display: flex;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 700px) {
+    #secondSectionSideText,.headingOfFirstSection{
+        font-size: small;
+    }
+}

@@ -46,9 +46,7 @@ const Footer = () => {
             </div>
             <div className="row">
                 <div className="col-lg-7">
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid amet, libero maiores
-                        perferendis repudiandae, enim quis dignissimos modi quibusdam nostrum fuga, voluptatum natus
-                        atque recusandae?</p>
+                    <p>Made by Heeba Khan & Sahil Karanje</p>
                 </div>
             </div>
             <div className="middle-footer">
@@ -86,11 +84,9 @@ const Footer = () => {
                     <div className="col-lg-5">
                         <div className="subscribe-div">
                             <h4>Sign up for our newsletter!</h4>
-                            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, quos vel odit porro
-                                rem eaque!</span>
                         </div>
                         <div className="subscribe-wrap">
-                            <input type="text" placeholder="Lorem ipsum dec heti"/>
+                            <input type="text" placeholder=""/>
                             <Link to="/">SUBSCRIBE</Link>
                         </div>
                     </div>

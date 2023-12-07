@@ -16,34 +16,28 @@ const Home = () => {
     {
       "imgUrl": "https://res.cloudinary.com/dqhd4b1ht/image/upload/v1693890294/Obsessed%20Products%20Images/bdthlruschcs91myomzg.jpg",
       "price": 4000,
-      "title": " lsdjf dfksjdf sdklfj sd"
     },
     {
       "imgUrl": "https://res.cloudinary.com/dqhd4b1ht/image/upload/v1693888947/Obsessed%20Products%20Images/tuviwubyobfvu4xj5mfp.jpg",
       "price": 4000,
-      "title": " lsdjf dfksjdf sdklfj sd"
     },
     {
       "imgUrl": "https://res.cloudinary.com/dqhd4b1ht/image/upload/v1693890293/Obsessed%20Products%20Images/ak6jskrs8ek0ayuezgaw.jpg",
       "price": 4000,
-      "title": " lsdjf dfksjdf sdklfj sd"
     }
   ];
   const trendingProducts2 = [
     {
       "imgUrl": "https://res.cloudinary.com/dqhd4b1ht/image/upload/v1693890293/Obsessed%20Products%20Images/bcs4r45lsv8kdu5jfodt.jpg",
       "price": 4000,
-      "title": " lsdjf dfksjdf sdklfj sd"
     },
     {
       "imgUrl": "https://res.cloudinary.com/dqhd4b1ht/image/upload/v1693890293/Obsessed%20Products%20Images/b1ldig7tqkdsssg78wle.jpg",
       "price": 4000,
-      "title": " lsdjf dfksjdf sdklfj sd"
     },
     {
       "imgUrl": "https://res.cloudinary.com/dqhd4b1ht/image/upload/v1693890293/Obsessed%20Products%20Images/pdqa23me8hjvvgdzbass.jpg",
       "price": 4000,
-      "title": " lsdjf dfksjdf sdklfj sd"
     }
   ];
 

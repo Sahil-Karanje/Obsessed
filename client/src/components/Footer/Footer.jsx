@@ -94,8 +94,8 @@ const Footer = () => {
             </div>
             <div className="bottom-footer">
                 <div className="bottom-info">
-                    <p>©Dolphin. All right reserved.
-                    Design by <Link to='/'>Dolphin.</Link>
+                    <p>©Obsessed. All right reserved.
+                    Design by <Link to='/'>Obsessed.</Link>
                 </p>
                 </div>
                 <div>

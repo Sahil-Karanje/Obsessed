@@ -3,6 +3,7 @@ import Navbar from '../../components/Navbar/Navbar'
 import './search.css'
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import Footer from '../../components/Footer/Footer';
 
 const Search = () => {
 
@@ -70,6 +71,7 @@ const Search = () => {
           })
         }
       </section>
+      <Footer/>
     </div>
   )
 }
